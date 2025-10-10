@@ -1,4 +1,4 @@
-package bt_java_basic_2;
+package btjavabasic2;
 
 public class Calculator {
     public int tinhTong(int a, int b){

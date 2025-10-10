@@ -1,6 +1,6 @@
-package bt_java_basic_4;
+package btjavabasic4;
 
-public class Bt_Vong_Lap_For_Mang {
+public class BtVongLapForMang {
     //khai bao mang để lưu trữ các số chẵn từ 0 đến 50
     int mangSoChan [] = new int [26];
 
@@ -22,9 +22,10 @@ public class Bt_Vong_Lap_For_Mang {
         }
     }
     public static void main(String[] args) {
-        Bt_Vong_Lap_For_Mang bt = new Bt_Vong_Lap_For_Mang();
+        BtVongLapForMang bt = new BtVongLapForMang();
         bt.InSoChan();
         System.out.println("==================================");
         bt.InMangSoChan();
+
     }
 }

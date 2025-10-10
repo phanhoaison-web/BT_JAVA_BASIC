@@ -1,4 +1,4 @@
-package bt_java_basic_1;
+package btjavabasic1;
 
 public class ThongTin {
     //khai báo biến static để class sinh viên gọi
